@@ -18,7 +18,7 @@ Each Colab was executed, reviewed, and explained through a corresponding video.
 
 ## 1. Introduction to Python
 
-**Colab:** `https://colab.research.google.com/drive/10Dj_Bjl6dufeY0zXUA7ozZ6L1pXKEfJj`
+**Colab:** `https://drive.google.com/drive/folders/1cFv9pcHlfgKmq88NgfdbufDBa8G4pzlZ`
 
 **Video:** [YouTube Video]
 
