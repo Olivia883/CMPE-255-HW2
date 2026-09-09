@@ -30,7 +30,7 @@ Neural Network Playground
 
 ## 2. Introduction to Python
 
-**Colab:** `01-python/introduction-to-python.ipynb`
+**Colab:** `https://colab.research.google.com/drive/17E_cjURtuCBcPte6qUrMlCCdHRJ0QUB4`
 
 **Video:** [YouTube Video]
 
@@ -47,7 +47,7 @@ Neural Network Playground
 
 ## 3. Introduction to NumPy
 
-**Colab:** `02-numpy/introduction-to-numpy.ipynb`
+**Colab:** `https://colab.research.google.com/drive/1DM_MCjCC6IzY2WK0vHlk90Ri7OAsT6df`
 
 **Video:** [YouTube Video]
 
@@ -62,7 +62,7 @@ Neural Network Playground
 
 ## 4. Introduction to Pandas
 
-**Colab:** `03-pandas/introduction-to-pandas.ipynb`
+**Colab:** `https://colab.research.google.com/drive/1atdrsQqKndPn3puN0K5241iMkpC57FNq`
 
 **Video:** [YouTube Video]
 
@@ -78,7 +78,7 @@ Neural Network Playground
 
 ## 5. Introduction to Matplotlib
 
-**Colab:** `04-matplotlib/introduction-to-matplotlib.ipynb`
+**Colab:** `https://colab.research.google.com/drive/18kGkqhPMpsrEVCdS7gKxwEZskJRnV1EP`
 
 **Video:** [YouTube Video]
 
@@ -93,7 +93,7 @@ Neural Network Playground
 
 ## 6. Linear Algebra #1
 
-**Colab:** `05-linear-algebra-1/linear-algebra-1.ipynb`
+**Colab:** `https://colab.research.google.com/drive/1tbGIBiTCEmdcrU7ZnrSsiZlQ0qZ17C1G`
 
 **Video:** [YouTube Video]
 
@@ -101,7 +101,7 @@ Neural Network Playground
 
 ## 7. Linear Algebra #2
 
-**Colab:** `06-linear-algebra-2/linear-algebra-2.ipynb`
+**Colab:** `https://colab.research.google.com/drive/1klFPIng_eiHcff37XEC5QXIhigbomwEW`
 
 **Video:** [YouTube Video]
 
@@ -109,7 +109,7 @@ Neural Network Playground
 
 ## 8. Linear Algebra #3
 
-**Colab:** `07-linear-algebra-3/linear-algebra-3.ipynb`
+**Colab:** `https://colab.research.google.com/drive/1fVRs54OulA6tWi48zDPDxeXgbr5BLWd-`
 
 **Video:** [YouTube Video]
 
@@ -117,7 +117,7 @@ Neural Network Playground
 
 ## 9. Introduction to Probability
 
-**Colab:** `08-probability/probability.ipynb`
+**Colab:** `https://colab.research.google.com/drive/1TmAZyMRMz5zl2VwJdK6NyoYQBFa5h30c`
 
 **Video:** [YouTube Video]
 
@@ -125,7 +125,7 @@ Neural Network Playground
 
 ## 10. Introduction to Statistics
 
-**Colab:** `09-statistics/statistics.ipynb`
+**Colab:** `https://drive.google.com/file/d/1IkMQOZVW5JQUCATRW2MbZPKCBVqlD4w6/view?usp=sharing`
 
 **Video:** [YouTube Video]
 
@@ -133,7 +133,7 @@ Neural Network Playground
 
 ## 11. Probability and Statistics for Data Science #1
 
-**Colab:** `10-probability-statistics-1/probability-statistics-1.ipynb`
+**Colab:** `https://colab.research.google.com/drive/1Ulo_oAalDK1diBEyy7F1RwsmqpXnnEds`
 
 **Video:** [YouTube Video]
 
@@ -141,7 +141,7 @@ Neural Network Playground
 
 ## 12. Probability and Statistics for Data Science #2
 
-**Colab:** `11-probability-statistics-2/probability-statistics-2.ipynb`
+**Colab:** `https://colab.research.google.com/drive/10V5Mf9b3ZowR_-e78-4vKwUptPXfSzIP`
 
 **Video:** [YouTube Video]
 
@@ -149,31 +149,31 @@ Neural Network Playground
 
 ## 13. Probability and Statistics for Data Science #3
 
-**Colab:** `12-probability-statistics-3/probability-statistics-3.ipynb`
+**Colab:** `https://colab.research.google.com/drive/1bO_ax8q_wTJ5HrZksk_EcC-1vE1fUPbT`
 
 **Video:** [YouTube Video]
 
 ---
 
-## 14. Calculus #1
+## 14. Intro to Calculus #1
 
-**Colab:** `13-calculus-1/calculus-1.ipynb`
-
-**Video:** [YouTube Video]
-
----
-
-## 15. Calculus #2
-
-**Colab:** `14-calculus-2/calculus-2.ipynb`
+**Colab:** `https://colab.research.google.com/drive/1euBXLqidelKsk8FhBZF726JELTmEGNxG`
 
 **Video:** [YouTube Video]
 
 ---
 
-## 16. Calculus #3
+## 15. Intro to Calculus #2
 
-**Colab:** `15-calculus-3/calculus-3.ipynb`
+**Colab:** `https://colab.research.google.com/drive/1VF22nCsH6tocZ1uKY1KGU4i6IpQKvyBb`
+
+**Video:** [YouTube Video]
+
+---
+
+## 16. Intro to Calculus #3
+
+**Colab:** `https://colab.research.google.com/drive/1tuZ7NAx6VC2qpyIG3RM4nJXmzN4si0VS`
 
 **Video:** [YouTube Video]
 
@@ -181,7 +181,7 @@ Neural Network Playground
 
 ## 17. Foundations of Learning
 
-**Colab:** `16-foundations-of-learning/foundations-of-learning.ipynb`
+**Colab:** `https://colab.research.google.com/drive/1tuZ7NAx6VC2qpyIG3RM4nJXmzN4si0VS`
 
 **Video:** [YouTube Video]
 
