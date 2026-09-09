@@ -16,21 +16,9 @@ Each Colab was executed, reviewed, and explained through a corresponding video.
 
 ---
 
-## 1. Neural Network Playground
+## 1. Introduction to Python
 
-**Topic:** Neural Network Playground
-
-**Description:**
-The Neural Network Playground provides an interactive visualization for understanding how neural networks learn from data. It allows users to experiment with concepts such as datasets, neural-network architecture, activation functions, learning rate, and training.
-
-**Website:**
-Neural Network Playground
-
----
-
-## 2. Introduction to Python
-
-**Colab:** `Intro_to_Python.ipynb`
+**Colab:** `https://colab.research.google.com/drive/10Dj_Bjl6dufeY0zXUA7ozZ6L1pXKEfJj`
 
 **Video:** [YouTube Video]
 
@@ -45,9 +33,9 @@ Neural Network Playground
 
 ---
 
-## 3. Introduction to NumPy
+## 2. Introduction to NumPy
 
-**Colab:** `https://colab.research.google.com/drive/1DM_MCjCC6IzY2WK0vHlk90Ri7OAsT6df`
+**Colab:** `https://drive.google.com/drive/folders/1cFv9pcHlfgKmq88NgfdbufDBa8G4pzlZ`
 
 **Video:** [YouTube Video]
 
@@ -60,9 +48,9 @@ Neural Network Playground
 
 ---
 
-## 4. Introduction to Pandas
+## 3. Introduction to Pandas
 
-**Colab:** `https://colab.research.google.com/drive/1atdrsQqKndPn3puN0K5241iMkpC57FNq`
+**Colab:** `https://drive.google.com/drive/folders/1cFv9pcHlfgKmq88NgfdbufDBa8G4pzlZ`
 
 **Video:** [YouTube Video]
 
@@ -76,9 +64,9 @@ Neural Network Playground
 
 ---
 
-## 5. Introduction to Matplotlib
+## 4. Introduction to Matplotlib
 
-**Colab:** `https://colab.research.google.com/drive/18kGkqhPMpsrEVCdS7gKxwEZskJRnV1EP`
+**Colab:** `https://colab.research.google.com/drive/1IgSWZZef46hpAxyQ2yxVHMVHU5p1YWcC`
 
 **Video:** [YouTube Video]
 
@@ -91,7 +79,7 @@ Neural Network Playground
 
 ---
 
-## 6. Linear Algebra #1
+## 5. Linear Algebra #1
 
 **Colab:** `https://colab.research.google.com/drive/1tbGIBiTCEmdcrU7ZnrSsiZlQ0qZ17C1G`
 
@@ -99,7 +87,7 @@ Neural Network Playground
 
 ---
 
-## 7. Linear Algebra #2
+## 6. Linear Algebra #2
 
 **Colab:** `https://colab.research.google.com/drive/1klFPIng_eiHcff37XEC5QXIhigbomwEW`
 
@@ -107,7 +95,7 @@ Neural Network Playground
 
 ---
 
-## 8. Linear Algebra #3
+## 7. Linear Algebra #3
 
 **Colab:** `https://colab.research.google.com/drive/1fVRs54OulA6tWi48zDPDxeXgbr5BLWd-`
 
@@ -115,7 +103,7 @@ Neural Network Playground
 
 ---
 
-## 9. Introduction to Probability
+## 8. Introduction to Probability
 
 **Colab:** `https://colab.research.google.com/drive/1TmAZyMRMz5zl2VwJdK6NyoYQBFa5h30c`
 
@@ -123,7 +111,7 @@ Neural Network Playground
 
 ---
 
-## 10. Introduction to Statistics
+## 9. Introduction to Statistics
 
 **Colab:** `https://drive.google.com/file/d/1IkMQOZVW5JQUCATRW2MbZPKCBVqlD4w6/view?usp=sharing`
 
@@ -131,7 +119,7 @@ Neural Network Playground
 
 ---
 
-## 11. Probability and Statistics for Data Science #1
+## 10. Probability and Statistics for Data Science #1
 
 **Colab:** `https://colab.research.google.com/drive/1Ulo_oAalDK1diBEyy7F1RwsmqpXnnEds`
 
@@ -139,7 +127,7 @@ Neural Network Playground
 
 ---
 
-## 12. Probability and Statistics for Data Science #2
+## 11. Probability and Statistics for Data Science #2
 
 **Colab:** `https://colab.research.google.com/drive/10V5Mf9b3ZowR_-e78-4vKwUptPXfSzIP`
 
@@ -147,7 +135,7 @@ Neural Network Playground
 
 ---
 
-## 13. Probability and Statistics for Data Science #3
+## 12. Probability and Statistics for Data Science #3
 
 **Colab:** `https://colab.research.google.com/drive/1bO_ax8q_wTJ5HrZksk_EcC-1vE1fUPbT`
 
@@ -155,7 +143,7 @@ Neural Network Playground
 
 ---
 
-## 14. Intro to Calculus #1
+## 13. Intro to Calculus #1
 
 **Colab:** `https://colab.research.google.com/drive/1euBXLqidelKsk8FhBZF726JELTmEGNxG`
 
@@ -163,7 +151,7 @@ Neural Network Playground
 
 ---
 
-## 15. Intro to Calculus #2
+## 14. Intro to Calculus #2
 
 **Colab:** `https://colab.research.google.com/drive/1VF22nCsH6tocZ1uKY1KGU4i6IpQKvyBb`
 
@@ -171,7 +159,7 @@ Neural Network Playground
 
 ---
 
-## 16. Intro to Calculus #3
+## 15. Intro to Calculus #3
 
 **Colab:** `https://colab.research.google.com/drive/1tuZ7NAx6VC2qpyIG3RM4nJXmzN4si0VS`
 
@@ -179,7 +167,7 @@ Neural Network Playground
 
 ---
 
-## 17. Foundations of Learning
+## 16. Foundations of Learning
 
 **Colab:** `https://colab.research.google.com/drive/1tuZ7NAx6VC2qpyIG3RM4nJXmzN4si0VS`
 
