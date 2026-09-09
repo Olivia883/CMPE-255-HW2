@@ -97,7 +97,7 @@ Each Colab was executed, reviewed, and explained through a corresponding video.
 
 ## 7. Linear Algebra #3
 
-**Colab:** `https://colab.research.google.com/drive/1fVRs54OulA6tWi48zDPDxeXgbr5BLWd-`
+**Colab:** `https://drive.google.com/drive/folders/1cFv9pcHlfgKmq88NgfdbufDBa8G4pzlZ`
 
 **Video:** [YouTube Video]
 
