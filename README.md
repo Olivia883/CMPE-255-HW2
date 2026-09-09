@@ -30,7 +30,7 @@ Neural Network Playground
 
 ## 2. Introduction to Python
 
-**Colab:** `https://colab.research.google.com/drive/17E_cjURtuCBcPte6qUrMlCCdHRJ0QUB4`
+**Colab:** `Intro_to_Python.ipynb`
 
 **Video:** [YouTube Video]
 
