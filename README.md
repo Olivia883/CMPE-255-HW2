@@ -10,21 +10,6 @@
 
 **Video:** [YouTube Video]
 
-### Topics Covered
-
-* Python fundamentals
-* Variables
-* Data types
-* Functions
-* Control flow
-* Lists
-* Dictionaries
-* Tuples
-* Sets
-* List comprehensions
-* Lambda functions
-* Basic programming concepts
-
 ---
 
 ## 2. Introduction to NumPy
