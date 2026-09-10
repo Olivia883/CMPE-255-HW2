@@ -18,7 +18,8 @@ Each Colab was executed, reviewed, and explained through a corresponding video.
 
 ## 1. Introduction to Python
 
-**Colab:** `https://drive.google.com/drive/folders/1cFv9pcHlfgKmq88NgfdbufDBa8G4pzlZ`
+**Colab:** [Open My Google Colab](https://colab.research.google.com/drive/10Dj_Bjl6dufeY0zXUA7ozZ6L1pXKEfJj)
+**Executed Notebook:** [View Executed Notebook](./01-introduction-to-python/Intro_to_Python.ipynb)
 
 **Video:** [YouTube Video]
 
@@ -35,7 +36,8 @@ Each Colab was executed, reviewed, and explained through a corresponding video.
 
 ## 2. Introduction to NumPy
 
-**Colab:** `https://drive.google.com/drive/folders/1cFv9pcHlfgKmq88NgfdbufDBa8G4pzlZ`
+**Colab:** [Open My Google Colab](https://colab.research.google.com/drive/1DM_MCjCC6IzY2WK0vHlk90Ri7OAsT6df)
+**Executed Notebook:** [View Executed Notebook](./02-introduction-to-numpy/Intro_to_numpy.ipynb)
 
 **Video:** [YouTube Video]
 
@@ -50,7 +52,8 @@ Each Colab was executed, reviewed, and explained through a corresponding video.
 
 ## 3. Introduction to Pandas
 
-**Colab:** `https://drive.google.com/drive/folders/1cFv9pcHlfgKmq88NgfdbufDBa8G4pzlZ`
+**Colab:** [Open My Google Colab](https://colab.research.google.com/drive/1nbhIkp1eRIyWhmJ09xZeDLtGB5yZgRdT)
+**Executed Notebook:** [View Executed Notebook](./03-intro-to-pandas/Intro_to_pandas.ipynb)
 
 **Video:** [YouTube Video]
 
@@ -66,7 +69,8 @@ Each Colab was executed, reviewed, and explained through a corresponding video.
 
 ## 4. Introduction to Matplotlib
 
-**Colab:** `https://colab.research.google.com/drive/1IgSWZZef46hpAxyQ2yxVHMVHU5p1YWcC`
+**Colab:** [Open My Google Colab](https://drive.google.com/drive/folders/1cFv9pcHlfgKmq88NgfdbufDBa8G4pzlZ)
+**Executed Notebook:** [View Executed Notebook](./04-intro-to-matplotlib/Intro_to_Matplotlib.ipynb)
 
 **Video:** [YouTube Video]
 
@@ -81,7 +85,8 @@ Each Colab was executed, reviewed, and explained through a corresponding video.
 
 ## 5. Linear Algebra #1
 
-**Colab:** `https://drive.google.com/drive/folders/1cFv9pcHlfgKmq88NgfdbufDBa8G4pzlZ`
+**Colab:** [Open My Google Colab](https://drive.google.com/drive/folders/1cFv9pcHlfgKmq88NgfdbufDBa8G4pzlZ)
+**Executed Notebook:** [View Executed Notebook](./05-intro-to-linear-algebra-1/intro_to_linear_algebra_1.ipynb)
 
 **Video:** [YouTube Video]
 
@@ -89,7 +94,8 @@ Each Colab was executed, reviewed, and explained through a corresponding video.
 
 ## 6. Linear Algebra #2
 
-**Colab:** `https://drive.google.com/drive/folders/1cFv9pcHlfgKmq88NgfdbufDBa8G4pzlZ`
+**Colab:** [Open My Google Colab](https://drive.google.com/drive/folders/1cFv9pcHlfgKmq88NgfdbufDBa8G4pzlZ)
+**Executed Notebook:** [View Executed Notebook](./06-intro-to-linear-algebra-2/intro_to_linear_algebra_2.ipynb)
 
 **Video:** [YouTube Video]
 
@@ -97,7 +103,8 @@ Each Colab was executed, reviewed, and explained through a corresponding video.
 
 ## 7. Linear Algebra #3
 
-**Colab:** `https://drive.google.com/drive/folders/1cFv9pcHlfgKmq88NgfdbufDBa8G4pzlZ`
+**Colab:** [Open My Google Colab](https://drive.google.com/drive/folders/1cFv9pcHlfgKmq88NgfdbufDBa8G4pzlZ)
+**Executed Notebook:** [View Executed Notebook](./07-intro-to-linear-algebra-3/intro_to_linear_algebra_3.ipynb)
 
 **Video:** [YouTube Video]
 
@@ -105,7 +112,8 @@ Each Colab was executed, reviewed, and explained through a corresponding video.
 
 ## 8. Introduction to Probability
 
-**Colab:** `https://colab.research.google.com/drive/1TmAZyMRMz5zl2VwJdK6NyoYQBFa5h30c`
+**Colab:** [Open My Google Colab](https://colab.research.google.com/drive/1Ea68D7zb9Mu7oZig288EVq1aqzbUc3U6)
+**Executed Notebook:** [View Executed Notebook](./08-intro-to-probability/intro_to_probability.ipynb)
 
 **Video:** [YouTube Video]
 
@@ -113,6 +121,7 @@ Each Colab was executed, reviewed, and explained through a corresponding video.
 
 ## 9. Introduction to Statistics
 
+NOT VIEWABLE
 **Colab:** `https://drive.google.com/file/d/1IkMQOZVW5JQUCATRW2MbZPKCBVqlD4w6/view?usp=sharing`
 
 **Video:** [YouTube Video]
@@ -121,7 +130,8 @@ Each Colab was executed, reviewed, and explained through a corresponding video.
 
 ## 10. Probability and Statistics for Data Science #1
 
-**Colab:** `https://colab.research.google.com/drive/1Ulo_oAalDK1diBEyy7F1RwsmqpXnnEds`
+**Colab:** [Open My Google Colab](https://colab.research.google.com/drive/1Ulo_oAalDK1diBEyy7F1RwsmqpXnnEds)
+**Executed Notebook:** [View Executed Notebook](./10-probability_fundamentals_1/probability_fundamentals_1.ipynb)
 
 **Video:** [YouTube Video]
 
@@ -129,7 +139,8 @@ Each Colab was executed, reviewed, and explained through a corresponding video.
 
 ## 11. Probability and Statistics for Data Science #2
 
-**Colab:** `https://colab.research.google.com/drive/10V5Mf9b3ZowR_-e78-4vKwUptPXfSzIP`
+**Colab:** [Open My Google Colab](https://colab.research.google.com/drive/10V5Mf9b3ZowR_-e78-4vKwUptPXfSzIP#scrollTo=gaVljjz0Vegm)
+**Executed Notebook:** [View Executed Notebook](./11-probability_fundamentals_2/probability_fundamentals_2.ipynb)
 
 **Video:** [YouTube Video]
 
@@ -137,7 +148,8 @@ Each Colab was executed, reviewed, and explained through a corresponding video.
 
 ## 12. Probability and Statistics for Data Science #3
 
-**Colab:** `https://colab.research.google.com/drive/1bO_ax8q_wTJ5HrZksk_EcC-1vE1fUPbT`
+**Colab:** [Open My Google Colab](https://colab.research.google.com/drive/1bO_ax8q_wTJ5HrZksk_EcC-1vE1fUPbT)
+**Executed Notebook:** [View Executed Notebook](./12-probability_fundamentals_1/probability_fundamentals_1.ipynb)
 
 **Video:** [YouTube Video]
 
@@ -145,7 +157,8 @@ Each Colab was executed, reviewed, and explained through a corresponding video.
 
 ## 13. Intro to Calculus #1
 
-**Colab:** `https://colab.research.google.com/drive/1euBXLqidelKsk8FhBZF726JELTmEGNxG`
+**Colab:** [Open My Google Colab](https://colab.research.google.com/drive/1euBXLqidelKsk8FhBZF726JELTmEGNxG)
+**Executed Notebook:** [View Executed Notebook](./13-intro_to_calc_1/intro_to_calc_1.ipynb)
 
 **Video:** [YouTube Video]
 
@@ -153,7 +166,8 @@ Each Colab was executed, reviewed, and explained through a corresponding video.
 
 ## 14. Intro to Calculus #2
 
-**Colab:** `https://colab.research.google.com/drive/1VF22nCsH6tocZ1uKY1KGU4i6IpQKvyBb`
+**Colab:** [Open My Google Colab](https://colab.research.google.com/drive/1VF22nCsH6tocZ1uKY1KGU4i6IpQKvyBb)
+**Executed Notebook:** [View Executed Notebook](./14-intro_to_calc_2/intro_to_calc_2.ipynb)
 
 **Video:** [YouTube Video]
 
@@ -161,7 +175,8 @@ Each Colab was executed, reviewed, and explained through a corresponding video.
 
 ## 15. Intro to Calculus #3
 
-**Colab:** `https://colab.research.google.com/drive/1tuZ7NAx6VC2qpyIG3RM4nJXmzN4si0VS`
+**Colab:** [Open My Google Colab](https://colab.research.google.com/drive/1PAfNtX37saX6wvoM4t8UmBBJPQ56xvW9)
+**Executed Notebook:** [View Executed Notebook](./15-intro_to_calc_3/intro_to_calc_3.ipynb)
 
 **Video:** [YouTube Video]
 
