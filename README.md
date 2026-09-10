@@ -158,7 +158,7 @@ NOT VIEWABLE
 ## 13. Intro to Calculus #1
 
 **Colab:** [Open My Google Colab](https://colab.research.google.com/drive/1euBXLqidelKsk8FhBZF726JELTmEGNxG)
-**Executed Notebook:** [View Executed Notebook](./13-intro_to_calc_1/intro_to_calc_1.ipynb)
+**Executed Notebook:** [View Executed Notebook](./13-Intro_to_calc_1/intro_to_calc_1.ipynb)
 
 **Video:** [YouTube Video]
 
@@ -166,8 +166,8 @@ NOT VIEWABLE
 
 ## 14. Intro to Calculus #2
 
-**Colab:** [Open My Google Colab](https://colab.research.google.com/drive/1VF22nCsH6tocZ1uKY1KGU4i6IpQKvyBb)
-**Executed Notebook:** [View Executed Notebook](./14-intro_to_calc_2/intro_to_calc_2.ipynb)
+**Colab:** [Open My Google Colab](https://colab.research.google.com/drive/1VF22nCsH6tocZ1uKY1KGU4i6IpQKvyBb#scrollTo=eZFX7UkBXX-I)
+**Executed Notebook:** [View Executed Notebook](./14-Intro_to_calc_2/intro_to_calc_2.ipynb)
 
 **Video:** [YouTube Video]
 
@@ -175,8 +175,8 @@ NOT VIEWABLE
 
 ## 15. Intro to Calculus #3
 
-**Colab:** [Open My Google Colab](https://colab.research.google.com/drive/1PAfNtX37saX6wvoM4t8UmBBJPQ56xvW9)
-**Executed Notebook:** [View Executed Notebook](./15-intro_to_calc_3/intro_to_calc_3.ipynb)
+**Colab:** [Open My Google Colab](https://colab.research.google.com/drive/1PAfNtX37saX6wvoM4t8UmBBJPQ56xvW9#scrollTo=6jezUzGpyL55)
+**Executed Notebook:** [View Executed Notebook](./15-Intro_to_calc_3/intro_to_calc_3.ipynb)
 
 **Video:** [YouTube Video]
 
@@ -184,7 +184,8 @@ NOT VIEWABLE
 
 ## 16. Foundations of Learning
 
-**Colab:** `https://colab.research.google.com/drive/1tuZ7NAx6VC2qpyIG3RM4nJXmzN4si0VS`
+**Colab:** [Open My Google Colab](https://colab.research.google.com/drive/1tuZ7NAx6VC2qpyIG3RM4nJXmzN4si0VS)
+**Executed Notebook:** [View Executed Notebook](./16-Intro_to_Foundations/intro_to_foundations.ipynb)
 
 **Video:** [YouTube Video]
 
