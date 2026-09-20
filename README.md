@@ -18,7 +18,7 @@
 
 **Executed Notebook:** [View Executed Notebook](./02-Intro-to-numpy/Intro_to_numpy.ipynb)
 
-**Video:** [YouTube Video]
+**Video:** [https://youtu.be/kHpP4DrfbHY]
 
 ---
 
@@ -28,7 +28,7 @@
 
 **Executed Notebook:** [View Executed Notebook](./03-Intro-to-pandas/Copy_of_Intro_to_pandas.ipynb)
 
-**Video:** [YouTube Video]
+**Video:** [https://youtu.be/DzoopyImN7s]
 
 ---
 
