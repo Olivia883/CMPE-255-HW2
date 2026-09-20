@@ -38,7 +38,7 @@
 
 **Executed Notebook:** [View Executed Notebook](./04-Intro-to-Matplotlib/Copy_of_Intro_to_Matplotlib.ipynb)
 
-**Video:** [YouTube Video]
+**Video:** [https://youtu.be/8176TQwkICc]
 
 ---
 
