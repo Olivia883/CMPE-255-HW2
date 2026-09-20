@@ -48,7 +48,7 @@
 
 **Executed Notebook:** [View Executed Notebook](./06-Intro-to-linear-algebra-1/Copy_of_intro_to_linear_algebra_1.ipynb)
 
-**Video:** [YouTube Video]
+**Video:** [https://youtu.be/kQlMaNsxLmc]
 
 ---
 
