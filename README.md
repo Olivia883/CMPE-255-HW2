@@ -8,7 +8,7 @@
 
 **Executed Notebook:** [View Executed Notebook](./01-Intro-to-Python/Intro_to_Python.ipynb)
 
-**Video:** [YouTube Video]
+**Video:** [https://youtu.be/BHGSsZtVxaA]
 
 ---
 
