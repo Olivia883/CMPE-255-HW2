@@ -58,7 +58,7 @@
 
 **Executed Notebook:** [View Executed Notebook](./07-Intro-to-linear-algebra-2/Copy_of_intro_to_linear_algebra_2.ipynb)
 
-**Video:** [YouTube Video]
+**Video:** [https://youtu.be/jYQOfD8ohTk]
 
 ---
 
@@ -68,7 +68,7 @@
 
 **Executed Notebook:** [View Executed Notebook](./08-Intro-to-linear-algebra-3/Copy_of_intro_to_linear_algebra_3.ipynb)
 
-**Video:** [YouTube Video]
+**Video:** [https://youtu.be/t5Kb5RrpDSw]
 
 ---
 
@@ -78,7 +78,7 @@
 
 **Executed Notebook:** [View Executed Notebook](./05-Intro-to-probability/Copy_of_intro_to_probability.ipynb)
 
-**Video:** [YouTube Video]
+**Video:** [https://youtu.be/3uxfpjqJm_8]
 
 ---
 
