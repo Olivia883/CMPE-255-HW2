@@ -88,8 +88,6 @@
 
 **Executed Notebook:** Not currently available in the GitHub folder structure.
 
-**Video:** [YouTube Video]
-
 ---
 
 ## 10. Probability and Statistics for Data Science #1
@@ -98,7 +96,7 @@
 
 **Executed Notebook:** [View Executed Notebook](./13-Probability-Fundamentals-1/Copy_of_probability_fundamentals_1.ipynb)
 
-**Video:** [YouTube Video]
+**Video:** [https://youtu.be/s-VCI5Odix8]
 
 ---
 
@@ -108,7 +106,7 @@
 
 **Executed Notebook:** [View Executed Notebook](./14-Probability-Fundamentals-2/Copy_of_probability_fundamentals_2.ipynb)
 
-**Video:** [YouTube Video]
+**Video:** [https://youtu.be/hIS9-pCmsB4]
 
 ---
 
@@ -118,7 +116,7 @@
 
 **Executed Notebook:** [View Executed Notebook](./15-Probability-Fundamentals-3/Copy_of_probability_fundamentals_3.ipynb)
 
-**Video:** [YouTube Video]
+**Video:** [https://youtu.be/rt67qaG91tw]
 
 ---
 
@@ -148,7 +146,7 @@
 
 **Executed Notebook:** [View Executed Notebook](./12-Intro-to-Calculus-3/Copy_of_intro_to_calculus_3.ipynb)
 
-**Video:** [YouTube Video]
+**Video:** [https://youtu.be/t9Hc-N_TSOs]
 
 ---
 
