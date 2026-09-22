@@ -128,7 +128,7 @@
 
 **Executed Notebook:** [View Executed Notebook](./10-Intro-to-Calculus-1/Copy_of_intro_to_calc_1.ipynb)
 
-**Video:** [YouTube Video]
+**Video:** [https://youtu.be/8uNlnZ-VYak]
 
 ---
 
@@ -138,7 +138,7 @@
 
 **Executed Notebook:** [View Executed Notebook](./11-Intro-to-Calculus-2/Copy_of_intro_to_calc_2.ipynb)
 
-**Video:** [YouTube Video]
+**Video:** [https://youtu.be/kg_A76CEKdc]
 
 ---
 
