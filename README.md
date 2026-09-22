@@ -1,4 +1,4 @@
-# CMPE-255-HW2
+# CMPE-255-HW2 —> Executing Colab Notebooks
 
 # CMPE 255 — Data Mining
 
@@ -150,13 +150,13 @@
 
 ---
 
-## 16. Foundations of Learning
+## 16. Intro To Foundations
 
 **Colab:** [Open My Google Colab](https://colab.research.google.com/drive/1tuZ7NAx6VC2qpyIG3RM4nJXmzN4si0VS)
 
 **Executed Notebook:** [View Executed Notebook](./16-Intro-to-Foundations/Copy_of_intro_to_foundations.ipynb)
 
-**Video:** [YouTube Video]
+**Video:** [https://youtu.be/TRFsR4RoL_A]
 
 ---
 
